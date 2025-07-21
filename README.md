@@ -3,9 +3,6 @@
 A comprehensive Flutter mobile application for managing RFID systems with real-time monitoring, analytics, and user management features.
 
 ## Features
-## Features
-
-## Features
 
 <p align="center">
   <img src="images/Appl.jpg" alt="Home" width="200"/>
