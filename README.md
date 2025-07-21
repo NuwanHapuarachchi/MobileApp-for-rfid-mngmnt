@@ -5,7 +5,7 @@ A comprehensive Flutter mobile application for managing RFID systems with real-t
 ## Features
 
 <p align="center">
-  <img src="images/Appl.jpg" alt="Home" width="200"/>
+  <img src="images/App1.jpg" alt="Home" width="200"/>
   <img src="images/App2.jpg" alt="Reader" width="200"/>
   <img src="images/App3.jpg" alt="Tags" width="200"/>
   <img src="images/App4.jpg" alt="Scans" width="200"/>
