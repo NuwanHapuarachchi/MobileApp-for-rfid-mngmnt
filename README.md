@@ -3,7 +3,7 @@
 A comprehensive Flutter mobile application for managing RFID systems with real-time monitoring, analytics, and user management features.
 
 ## Features
-
+![Home](Images/Appl.jpg)
 ### 🔐 Authentication
 - Secure email/password authentication via Supabase Auth
 - Session management with persistent login
