@@ -5,16 +5,14 @@ A comprehensive Flutter mobile application for managing RFID systems with real-t
 ## Features
 ## Features
 
-<table>
-  <tr>
-    <td><img src="images/Appl.jpg" alt="Home" width="200"/></td>
-    <td><img src="images/App2.jpg" alt="Reader" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="images/App3.jpg" alt="Tags" width="200"/></td>
-    <td><img src="images/App4.jpg" alt="Scans" width="200"/></td>
-  </tr>
-</table>
+## Features
+
+<p align="center">
+  <img src="images/Appl.jpg" alt="Home" width="200"/>
+  <img src="images/App2.jpg" alt="Reader" width="200"/>
+  <img src="images/App3.jpg" alt="Tags" width="200"/>
+  <img src="images/App4.jpg" alt="Scans" width="200"/>
+</p>
 ### 🔐 Authentication
 - Secure email/password authentication via Supabase Auth
 - Session management with persistent login
